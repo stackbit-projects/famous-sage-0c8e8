@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Build your Dream Busines
+    title: Build Your Dream Business
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
