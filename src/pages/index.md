@@ -5,8 +5,8 @@ sections:
     title: Build Your Dream Business
     subtitle: Turn your business into a profitable venture.
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Connect with the businesses helping business owners achieve explosive
+      growth.
     actions:
       - label: Try Free
         url: /pricing
