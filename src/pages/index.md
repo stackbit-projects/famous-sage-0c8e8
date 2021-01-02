@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Build Your Dream Business
-    subtitle: We help connect you with business builders
+    subtitle: Connect you with business builders
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
