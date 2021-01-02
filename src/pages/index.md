@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Build Your Dream Business
-    subtitle: Turn your business into a profitable venture
+    subtitle: Turn your business into a profitable venture.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
