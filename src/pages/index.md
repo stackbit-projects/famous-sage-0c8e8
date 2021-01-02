@@ -83,9 +83,8 @@ sections:
       - title: Grow Your Business
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Our Marketplace provides you with business services and products to
+          help you start, maintain and scale your business online.
         actions:
           - label: Learn More
             url: /style-guide
