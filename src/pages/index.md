@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Grow Your Dream Business
+    title: Build Your Dream Business
     subtitle: Turn your business into a profitable venture.
     content: >-
       Connect with the businesses helping business owners achieve explosive
