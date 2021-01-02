@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Full-Stack B2B Marketplac
+    title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
