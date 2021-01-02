@@ -81,7 +81,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Grow Your Business
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          Are you looking for a way to grow your business without the hassle of
+          hiring and having to manage staff?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
