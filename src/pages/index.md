@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Grow Your Dream Business
-    subtitle: Turn your business into a profitable venture.
+    subtitle: Your easiest path to success.
     content: >-
       Connect with the businesses helping business owners achieve scalable
       growth.
