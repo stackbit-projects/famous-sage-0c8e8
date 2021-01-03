@@ -5,7 +5,7 @@ sections:
     title: Grow Your Dream Business
     subtitle: Turn your business into a profitable venture.
     content: >-
-      Connect with the businesses helping business owners achieve explosive
+      Connect with the businesses helping business owners achieve scalable
       growth.
     actions:
       - label: Try Free
